@@ -1,4 +1,4 @@
 # kr6-summon-trainer
 Unofficial summon trainer for Kingdom Rush Genesis (Windows Steam).
 
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/eac2103e-3690-412d-86c7-bf2ccde34df8" />
+**[下载 Windows 版 / Download for Windows](https://github.com/blue-earth411/kr6-summon-trainer/releases)**
