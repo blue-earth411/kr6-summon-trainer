@@ -1,12 +1,34 @@
 # Kingdom Rush Genesis Summon Trainer v1.3
 
-## 📥 Download / 下载修改器
-
-[Open downloads / 点击进入下载页面](https://github.com/blue-earth411/kr6-summon-trainer/releases)
-
-选择最新版本，在 Assets 中下载 KR6SummonPublic-1.3.0-win.zip，解压后按 README 安装。
-
 An unofficial single-player mod for the Windows Steam edition of Kingdom Rush Genesis. The panel defaults to English. Select **简体中文** in its title bar to switch languages and **English** to switch back. The switch applies to the mod panel and its summoned unit names.
+
+## 📥 下载 / Download
+
+[进入发布下载页面 / Open releases](https://github.com/blue-earth411/kr6-summon-trainer/releases)
+
+选择最新发布，在 **Assets** 中下载 **KR6SummonPublic-1.3.0-win.zip**，解压后按下方说明安装。 / Open the latest release, download **KR6SummonPublic-1.3.0-win.zip** under **Assets**, then extract it and follow the installation steps below.
+
+## Basic features
+
+- **Summon allies:** 15 unit types work with the base package, including the custom Arcane Archmage. The optional local Vengeance importer adds 27 other units, for 42 total.
+- **Continuous placement:** Select a unit and left-click walkable ground to summon repeatedly. Right-click, select the same button again, or press Esc to cancel placement.
+- **Move and inspect:** Select a summon to view its attributes, then click walkable ground to move it. Linirean Reinforcements move together as a pair.
+- **Remove summons:** Toggle Remove Summons or press F10, then click a summon. Right-click or press Esc to leave the mode.
+- **Gold mode:** Free summoning is the default. Enable Gold Summon Mode to show prices and deduct gold per purchase; insufficient gold blocks the purchase.
+- **Add gold:** Press F7 to add 500 gold during a battle.
+- **Experience multipliers:** Independently toggle 20× hero XP and 20× power XP in the panel.
+- **Panel controls:** Switch between English and Simplified Chinese, browse faction tabs, drag the title bar, and collapse or expand with F6. The collapsed panel is also draggable.
+- **Pause support:** Summons ordered while paused enter battle after play resumes.
+- **Save preservation:** The public installer adds the mod to the game's save directory; reinstalling or uninstalling preserves save files.
+
+| Shortcut | Action |
+| --- | --- |
+| F6 | Show/hide the panel |
+| F7 | Add 500 gold |
+| F8 | Select Classic Paladin for summoning |
+| F9 | Select Northern Berserker for summoning |
+| F10 | Toggle Remove Summons |
+| Esc / right-click | Cancel the current placement/removal mode |
 
 ## What's new in v1.3
 
@@ -50,6 +72,30 @@ See [Features / 功能清单](功能清单.md) for the roster and base gold pric
 ## 简体中文
 
 适用于 Windows Steam 版《Kingdom Rush Genesis》，目标构建号 **26280216**。面板默认英文，点击标题栏的 **简体中文** 即可切换。
+
+### 基础功能
+
+- **召唤友军：**基础包直接提供15种兵种，包含自制奥术大魔导；可选导入本机《复仇》后再增加27种，总计42种。
+- **连续召唤：**选择兵种后，左键点击可行走地面即可连续放置；再次点同一兵种、右键或按 Esc 取消。
+- **移动与属性：**选中召唤单位查看属性，再点击地面移动；利尼维亚援兵按双人一组移动。
+- **删除部队：**开启删除模式或按 F10，再点击召唤单位删除；右键或 Esc 退出模式。
+- **金币召唤：**默认免费；开启金币模式后显示价格并扣金币，余额不足时无法购买。
+- **增加金币：**战斗中按 F7 增加500金币。
+- **经验倍率：**面板中可分别开启或关闭英雄经验20倍、法术经验20倍。
+- **面板操作：**支持中英文切换、阵营分页、拖动标题栏，以及 F6 收起/展开；收起后也能拖动。
+- **暂停下单：**暂停时可以召唤，恢复后单位入场。
+- **保留存档：**公开版安装器将模组加入游戏存档目录，覆盖安装或卸载均保留存档。
+
+| 快捷键 | 功能 |
+| --- | --- |
+| F6 | 显示/收起面板 |
+| F7 | 增加500金币 |
+| F8 | 选择召唤经典圣骑士 |
+| F9 | 选择召唤北国狂战士 |
+| F10 | 切换删除召唤部队模式 |
+| Esc / 右键 | 取消当前召唤或删除模式 |
+
+### v1.3 更新
 
 v1.3 新增无需导入《复仇》即可使用的**奥术大魔导**，位于「利尼维亚」，售价 **1800 金币**、生命 **742**、魔抗 **95%**。保留私人测试版 v78 已验收的完整技能：单敌射线、多敌魔法雨、敌我传送、自身瞬移、符印、分解、塔强化、幻铸和双幻影，以及头部特写、步行、死亡和退场动画。基础阵容共 **15 种**；可选导入四代后共 **42 种**。大魔导本身不需要四代或导入步骤。
 
