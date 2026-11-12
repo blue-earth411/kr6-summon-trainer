@@ -1,8 +1,8 @@
 # Kingdom Rush Genesis Summon Trainer v1.3
 
-## 📥 下载修改器 / Download
+## 📥 Download / 下载修改器
 
-[点击进入下载页面 / Open downloads](https://github.com/blue-earth411/kr6-summon-trainer/releases)
+[Open downloads / 点击进入下载页面](https://github.com/blue-earth411/kr6-summon-trainer/releases)
 
 选择最新版本，在 Assets 中下载 KR6SummonPublic-1.3.0-win.zip，解压后按 README 安装。
 
