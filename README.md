@@ -1,5 +1,11 @@
 # Kingdom Rush Genesis Summon Trainer v1.3
 
+## 📥 下载修改器 / Download
+
+[点击进入下载页面 / Open downloads](https://github.com/blue-earth411/kr6-summon-trainer/releases)
+
+选择最新版本，在 Assets 中下载 KR6SummonPublic-1.3.0-win.zip，解压后按 README 安装。
+
 An unofficial single-player mod for the Windows Steam edition of Kingdom Rush Genesis. The panel defaults to English. Select **简体中文** in its title bar to switch languages and **English** to switch back. The switch applies to the mod panel and its summoned unit names.
 
 ## What's new in v1.3
